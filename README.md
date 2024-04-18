@@ -1,5 +1,13 @@
 # Machine Learning Competition - CashFlow
 
+## Github 
+Every time before you continue exploration, remember to see any changes made by your teammates.
+use 
+
+`git pull` 
+
+to fetch and integrate changes from a remote repository.
+
 ## Github Commits 
 Follow these steps to make a commit and push changes to your GitHub repository:
 
